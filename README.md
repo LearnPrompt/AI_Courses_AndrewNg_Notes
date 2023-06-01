@@ -1,0 +1,2 @@
+# AI_Courses_AndrewNg_Notes
+吴恩达老师的生成式AI课程个人笔记
